@@ -1,0 +1,4 @@
+8-lettered-words.txt : https://www.litscape.com/words/length/8_letters/8_letter_words.html
+7-lettered-words.txt : https://www.litscape.com/words/length/7_letters/7_letter_words.html
+6-lettered-words.txt : https://www.litscape.com/words/length/6_letters/6_letter_words.html
+5-lettered-words.txt : https://www.litscape.com/words/length/5_letters/5_letter_words.html
